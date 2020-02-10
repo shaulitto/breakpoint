@@ -1,0 +1,457 @@
+[
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64430" },
+    "type": ["beach"],
+    "name": "Praia Grande South Side",
+    "region": "Lisboa",
+    "id": "58bdf93c82d034001252e3d7",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64434" },
+    "type": ["beach"],
+    "name": "Comporta",
+    "region": "Alentejo",
+    "id": "591b423c1907e50013cd93cc",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64432" },
+    "type": ["point"],
+    "name": "Santo Amaro",
+    "region": "Lisboa",
+    "id": "584204214e65fad6a7709d13",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64431" },
+    "type": ["reef"],
+    "name": "Monte Estoril",
+    "region": "Lisboa",
+    "id": "5842041f4e65fad6a7708e66",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64433" },
+    "type": ["beach"],
+    "name": "Fonte da Telha",
+    "region": "Lisboa",
+    "id": "584204204e65fad6a77099d5",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64439" },
+    "type": ["river", "beach"],
+    "name": "Carrapateira",
+    "region": "Algarve",
+    "id": "5842041f4e65fad6a7708e7c",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64437" },
+    "type": ["beach"],
+    "name": "Praia do Amado",
+    "region": "Algarve",
+    "id": "5a1c987c0f87fe001a0c70d9",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64436" },
+    "type": ["beach", "point"],
+    "name": "Tonel",
+    "region": "Algarve",
+    "id": "5842041f4e65fad6a7708e80",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64435" },
+    "type": ["beach"],
+    "name": "Cabo de Sines",
+    "region": "Alentejo",
+    "id": "5842041f4e65fad6a7708e77",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64438" },
+    "type": ["reef"],
+    "name": "Praia Da Luz",
+    "region": "Douro and Minho",
+    "id": "5842041f4e65fad6a7708e81",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa6443e" },
+    "type": ["beach"],
+    "name": "Praia da Rocha",
+    "region": "Algarve",
+    "id": "5842041f4e65fad6a7708e83",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa6443c" },
+    "type": ["beach"],
+    "name": "Mareta",
+    "region": "Algarve",
+    "id": "5842041f4e65fad6a7708e7f",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa6443b" },
+    "type": ["beach", "reef"],
+    "name": "Arrifana",
+    "region": "Algarve",
+    "id": "5842041f4e65fad6a7708e7e",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa6443a" },
+    "type": ["beach"],
+    "name": "Vale Figueiras",
+    "region": "Algarve",
+    "id": "5842041f4e65fad6a7708e7d",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa6443d" },
+    "type": ["beach"],
+    "name": "Meia Praia",
+    "region": "Algarve",
+    "id": "5842041f4e65fad6a7708e84",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64443" },
+    "type": ["beach"],
+    "name": "Praia de Odeceixe",
+    "region": "Algarve",
+    "id": "5842041f4e65fad6a7708e7a",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64441" },
+    "type": ["sandbar", "beach"],
+    "name": "Sao Torpes",
+    "region": "Alentejo",
+    "id": "5a1c9ccecbecc0001bb480c7",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64440" },
+    "type": ["beach"],
+    "name": "Ilha do Farol",
+    "region": "Algarve",
+    "id": "5842041f4e65fad6a7708e82",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa6443f" },
+    "type": ["beach"],
+    "name": "Falesia",
+    "region": "Lisboa",
+    "id": "5842041f4e65fad6a7708e85",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64448" },
+    "type": ["beach", "reef"],
+    "name": "Matosinhos",
+    "region": "Douro and Minho",
+    "id": "5842041f4e65fad6a7708e59",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64442" },
+    "type": ["beach"],
+    "name": "Malhao",
+    "region": "Alentejo",
+    "id": "5842041f4e65fad6a7708e7b",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64446" },
+    "type": ["sandbar", "beach", "beach"],
+    "name": "Agucadoura",
+    "region": "Douro and Minho",
+    "id": "5842041f4e65fad6a7708e5a",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64445" },
+    "type": ["river", "beach"],
+    "name": "Viana do Castelo",
+    "region": "Douro and Minho",
+    "id": "5842041f4e65fad6a7708e57",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64444" },
+    "type": ["beach"],
+    "name": "Afife",
+    "region": "Douro and Minho",
+    "id": "5842041f4e65fad6a7708e58",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64447" },
+    "type": ["beach"],
+    "name": "Leca",
+    "region": "Douro and Minho",
+    "id": "5842041f4e65fad6a7708e5b",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa6444a" },
+    "type": ["beach"],
+    "name": "Esmoriz",
+    "region": "Beira",
+    "id": "5842041f4e65fad6a7708e5d",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa6444b" },
+    "type": ["beach"],
+    "name": "Cortegaca",
+    "region": "Beira",
+    "id": "5842041f4e65fad6a7708e5e",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa6444d" },
+    "type": ["beach"],
+    "name": "Belgas",
+    "region": "Peniche",
+    "id": "5dea852e909631442a25348a",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64449" },
+    "type": ["beach"],
+    "name": "Espinho",
+    "region": "Beira",
+    "id": "5842041f4e65fad6a7708e5c",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa6444c" },
+    "type": ["beach"],
+    "name": "Nazare",
+    "region": "Beira",
+    "id": "58bdfa7882d034001252e3d8",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64450" },
+    "type": ["beach"],
+    "name": "Baleal Reef",
+    "region": "Peniche",
+    "id": "5842041f4e65fad6a7708bc6",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa6444f" },
+    "type": ["beach", "reef"],
+    "name": "Lagide",
+    "region": "Peniche",
+    "id": "58bdf3a70cec4200133464f2",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64452" },
+    "type": ["beach", "reef"],
+    "name": "Supertubos",
+    "region": "Peniche",
+    "id": "5842041f4e65fad6a7708bc3",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa6444e" },
+    "type": ["beach"],
+    "name": "Almagreira",
+    "region": "Peniche",
+    "id": "5dea8356fe21a44513cecc3f",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64451" },
+    "type": ["beach"],
+    "name": "Praia do Cerro",
+    "region": "Peniche",
+    "id": "5a1c9e91cbecc0001bb480c8",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64455" },
+    "type": ["beach"],
+    "name": "Praia Azul",
+    "region": "Peniche",
+    "id": "584204204e65fad6a77096b9",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64454" },
+    "type": ["beach"],
+    "name": "Santa Cruz",
+    "region": "Peniche",
+    "id": "584204204e65fad6a77099d9",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64457" },
+    "type": ["reef"],
+    "name": "Coxos",
+    "region": "Ericeira",
+    "id": "5842041f4e65fad6a7708bc4",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64453" },
+    "type": ["reef"],
+    "name": "Consolacao Lefts",
+    "region": "Peniche",
+    "id": "5a53f6e5a8b6a9001b017369",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64456" },
+    "type": ["reef"],
+    "name": "Sao Lourenco",
+    "region": "Ericeira",
+    "id": "5842041f4e65fad6a7708bcb",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64459" },
+    "type": ["reef"],
+    "name": "Ribeira de ilhas",
+    "region": "Ericeira",
+    "id": "5842041f4e65fad6a7708bc2",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa6445a" },
+    "type": ["reef"],
+    "name": "Reef",
+    "region": "Ericeira",
+    "id": "5842041f4e65fad6a7708bc1",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa6445c" },
+    "type": ["beach", "river"],
+    "name": "Foz de Lizandro",
+    "region": "Ericeira",
+    "id": "5842041f4e65fad6a7708bbd",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64458" },
+    "type": ["reef"],
+    "name": "Cave",
+    "region": "Ericeira",
+    "id": "5d702a08b8be350001890108",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa6445b" },
+    "type": ["beach"],
+    "name": "Pedra Branca & Reef",
+    "id": "584204204e65fad6a77096ae",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa6445e" },
+    "type": ["beach"],
+    "name": "Praia Grande",
+    "region": "Lisboa",
+    "id": "5842041f4e65fad6a7708e62",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa6445f" },
+    "type": ["beach"],
+    "name": "Praia Do Guincho",
+    "region": "Lisboa",
+    "id": "5842041f4e65fad6a7708e64",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64461" },
+    "type": ["point"],
+    "name": "Paco de Arcos",
+    "region": "Lisboa",
+    "id": "584204214e65fad6a7709d0c",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa6445d" },
+    "type": ["beach"],
+    "name": "Praia Pequena",
+    "region": "Lisboa",
+    "id": "584204214e65fad6a7709d28",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64460" },
+    "type": ["reef"],
+    "name": "Carcavelos",
+    "region": "Lisboa",
+    "id": "5842041f4e65fad6a7708bc0",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64463" },
+    "type": ["beach"],
+    "name": "São Joao da Caparica",
+    "region": "Lisboa",
+    "id": "5dbb587ff387900001fee288",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64464" },
+    "type": ["beach"],
+    "name": "Marcelino",
+    "region": "Lisboa",
+    "id": "584204214e65fad6a7709d15",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64462" },
+    "type": ["beach"],
+    "name": "Cova Do Vapor",
+    "region": "Lisboa",
+    "id": "584204204e65fad6a77096ad",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64465" },
+    "type": ["beach"],
+    "name": "Praia do Barbas",
+    "region": "Lisboa",
+    "id": "584204214e65fad6a7709d16",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64468" },
+    "type": ["beach"],
+    "name": "Praia da Cornelia",
+    "region": "Lisboa",
+    "id": "5dbf6037eb8ddf00015a883f",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64466" },
+    "type": ["beach"],
+    "name": "Costa da Caparica",
+    "region": "Lisboa",
+    "id": "5842041f4e65fad6a7708e65",
+    "__v": { "$numberInt": "0" }
+  },
+  {
+    "_id": { "$oid": "5e4184fd404a04f6efa64467" },
+    "type": ["river", "beach"],
+    "name": "Viana do Castelo",
+    "region": "Douro and Minho",
+    "id": "584204204e65fad6a77099d8",
+    "__v": { "$numberInt": "0" }
+  }
+]
